@@ -8,7 +8,7 @@ function Projects() {
       <h2 className="text-3xl font-bold mb-6">Projects</h2>
 
       {/* Project 1 */}
-      <div className="mb-8 p-5 border rounded-lg shadow-sm bg-white">
+      <div className="mb-8 p-5 border rounded-lg shadow-sm bg-blue-50 hover:scale-105 transition">
         <h3 className="text-2xl font-semibold">Akaal Connect – Volunteer Platform</h3>
         <p className="text-gray-700 mt-2 leading-7">
           A real-world community platform made for volunteers and event
@@ -18,7 +18,7 @@ function Projects() {
       </div>
 
       {/* Project 2 */}
-      <div className="mb-8 p-5 border rounded-lg shadow-sm bg-white">
+      <div className="mb-8 p-5 border rounded-lg shadow-sm bg-blue-50 hover:scale-105 transition">
         <h3 className="text-2xl font-semibold">Simple Blog Front-End</h3>
         <p className="text-gray-700 mt-2 leading-7">
           A blog front-end built using React + Fake API (JSONPlaceholder). It
@@ -28,7 +28,7 @@ function Projects() {
       </div>
 
       {/* Project 3 */}
-      <div className="mb-8 p-5 border rounded-lg shadow-sm bg-white">
+      <div className="mb-8 p-5 border rounded-lg shadow-sm bg-blue-50 hover:scale-105 transition">
         <h3 className="text-2xl font-semibold">Task Manager App</h3>
         <p className="text-gray-700 mt-2 leading-7">
           A productivity tool that includes a calendar, to-do list, reminders,
